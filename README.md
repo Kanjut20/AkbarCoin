@@ -12,5 +12,6 @@
 ## Run Program 
 + git clone https://github.com/Kanjut20/AkbarCoin
 + cd AkbarCoin
++ pip install -r requirement.txt
 + python AkbarCoin.py
 + Done 😄
