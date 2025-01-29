@@ -1,5 +1,5 @@
 # AkbarCoin 
-<kdb>![info](img.png)</kdb>
+<kdb>![info](https://github.com/Kanjut20/AkbarCoin/blob/main/AkbarCoin.jpg)</kdb>
 ## _use termux_
 + pkg update 
 + pkg upgrade 
