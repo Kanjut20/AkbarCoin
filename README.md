@@ -1,4 +1,5 @@
 # AkbarCoin 
+<kdb>![info](img.png)</kdb>
 ## _use termux_
 + pkg update 
 + pkg upgrade 
