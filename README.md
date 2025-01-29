@@ -10,7 +10,7 @@
 + apt install git
 + apt install python 
 ## Run Program 
-+ git install https://github.com/Kanjut20/AkbarCoin
++ git clone https://github.com/Kanjut20/AkbarCoin
 + cd AkbarCoin
 + python AkbarCoin.py
 + Done 😄
